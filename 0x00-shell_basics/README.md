@@ -24,3 +24,5 @@ deletes my_first_directory in the /tmp/ directory
 navigates to the previous directory
 11. Lists
 lists out all contents of files recursively includong hidden files
+12. File type
+checks the file type of the iamafile
