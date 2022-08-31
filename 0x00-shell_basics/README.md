@@ -10,3 +10,5 @@ takes you to the home directory...home sweet home
 lists the contents of the current directory in long format
 4. Hidden files
 lists all files in the current directory including hidden files
+5. I love numbers
+lists the current directory contents with user and group ids displayed numerically including hidden files
