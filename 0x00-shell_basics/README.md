@@ -18,3 +18,5 @@ create a directory
 move betty from one dir to another
 8. Bye Bye Betty
 deletes the file betty
+9. Bye Bye My first directory
+deletes my_first_directory in the /tmp/ directory
