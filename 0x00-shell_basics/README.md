@@ -28,3 +28,5 @@ lists out all contents of files recursively includong hidden files
 checks the file type of the iamafile
 13. We are symbols and inherit symbols
 for creating a symboic link between two files
+14. Copy HTML files
+script that copies all the html files from the working directory to parent working directory without duplicates
