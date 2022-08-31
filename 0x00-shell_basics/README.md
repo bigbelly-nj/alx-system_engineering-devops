@@ -34,3 +34,5 @@ script that copies all the html files from the working directory to parent worki
 moves files beginning with an uppercase letter to the /tmp/u directory
 16. Clean Emacs
 deletes all files in the working diectory than ends with ~
+17. Tree
+creates parent directory with sub-directories
