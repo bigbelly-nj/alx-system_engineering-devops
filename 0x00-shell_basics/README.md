@@ -12,3 +12,5 @@ lists the contents of the current directory in long format
 lists all files in the current directory including hidden files
 5. I love numbers
 lists the current directory contents with user and group ids displayed numerically including hidden files
+6. Welcome
+create a directory
