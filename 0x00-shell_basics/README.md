@@ -14,3 +14,5 @@ lists all files in the current directory including hidden files
 lists the current directory contents with user and group ids displayed numerically including hidden files
 6. Welcome
 create a directory
+7. Betty in my first directory
+move betty from one dir to another
