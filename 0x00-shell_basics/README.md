@@ -26,3 +26,5 @@ navigates to the previous directory
 lists out all contents of files recursively includong hidden files
 12. File type
 checks the file type of the iamafile
+13. We are symbols and inherit symbols
+for creating a symboic link between two files
