@@ -16,3 +16,5 @@ lists the current directory contents with user and group ids displayed numerical
 create a directory
 7. Betty in my first directory
 move betty from one dir to another
+8. Bye Bye Betty
+deletes the file betty
