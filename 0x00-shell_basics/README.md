@@ -36,3 +36,5 @@ moves files beginning with an uppercase letter to the /tmp/u directory
 deletes all files in the working diectory than ends with ~
 17. Tree
 creates parent directory with sub-directories
+18. Life is a series of commas not periods
+list all files and directories seperated by commas
