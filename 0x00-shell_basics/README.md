@@ -8,3 +8,5 @@ displays the content of the current directory
 takes you to the home directory...home sweet home
 3. The Long Format
 lists the contents of the current directory in long format
+4. Hidden files
+lists all files in the current directory including hidden files
