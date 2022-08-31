@@ -22,3 +22,5 @@ deletes the file betty
 deletes my_first_directory in the /tmp/ directory
 10. Back to the future
 navigates to the previous directory
+11. Lists
+lists out all contents of files recursively includong hidden files
