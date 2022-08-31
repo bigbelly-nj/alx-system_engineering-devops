@@ -30,3 +30,5 @@ checks the file type of the iamafile
 for creating a symboic link between two files
 14. Copy HTML files
 script that copies all the html files from the working directory to parent working directory without duplicates
+15. Let's move
+moves files beginning with an uppercase letter to the /tmp/u directory
