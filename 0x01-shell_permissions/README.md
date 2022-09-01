@@ -12,3 +12,5 @@ creates an empty file called hello
 adds execute permission to the owner of the file hello
 6. Multiple Permissions <br>
 Assigns mutiple permissions to the user and groups of the file hello
+7. Everybody <br>
+assigns execute permission to everybody
