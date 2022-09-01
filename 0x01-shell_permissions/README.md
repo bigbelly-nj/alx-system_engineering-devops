@@ -28,3 +28,5 @@ creates directory with permissions
 changes group of a file
 14. Owner and group <br>
 changes the owner and group of files in the curent directory
+15. Symbolic links <br>
+changing the group and owner of symbolic files
