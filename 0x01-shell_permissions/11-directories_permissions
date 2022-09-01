@@ -1,2 +1,2 @@
-#!/bin/bash  
+#!/bin/bash
 find /alx-system_engineering-devops -type d -exec chmod 111 {} +
