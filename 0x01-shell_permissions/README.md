@@ -4,4 +4,5 @@ switches user to betty
 prints out the effective username of the current user
 2. Groups
 Prints all the groups the current user is part of <br>
-
+3. New Owner <br>
+changes the owner of the the hello file
