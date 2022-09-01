@@ -14,3 +14,5 @@ adds execute permission to the owner of the file hello
 Assigns mutiple permissions to the user and groups of the file hello
 7. Everybody <br>
 assigns execute permission to everybody
+8. James Bond <br>
+assign all the permissions to only the other users
