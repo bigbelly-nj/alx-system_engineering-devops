@@ -20,3 +20,5 @@ assign all the permissions to only the other users
 change file permissions
 10. Mirror Permissions <br>
 mirror permissions for olleh
+11. Directory Permissions <br>
+set directory permissions recursively
