@@ -26,3 +26,5 @@ set directory permissions recursively
 creates directory with permissions
 13. Change Group <br>
 changes group of a file
+14. Owner and group <br>
+changes the owner and group of files in the curent directory
