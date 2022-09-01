@@ -22,3 +22,5 @@ change file permissions
 mirror permissions for olleh
 11. Directory Permissions <br>
 set directory permissions recursively
+12. More Directories <br>
+creates directory with permissions
