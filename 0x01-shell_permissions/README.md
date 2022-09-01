@@ -18,3 +18,5 @@ assigns execute permission to everybody
 assign all the permissions to only the other users
 9. James Doe <br>
 change file permissions
+10. Mirror Permissions <br>
+mirror permissions for olleh
