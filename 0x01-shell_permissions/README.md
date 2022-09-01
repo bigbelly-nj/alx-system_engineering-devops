@@ -7,4 +7,6 @@ Prints all the groups the current user is part of
 3. New Owner <br>
 changes the owner of the the hello file
 4. Hello <br>
-cretes an empty file called hello
+creates an empty file called hello
+5. Execute <br>
+adds execute permission to the owner of the file hello
