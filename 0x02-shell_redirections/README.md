@@ -18,5 +18,9 @@
 18. Letters only please
 19. A to Z
 20. Without C, you would live in HIago
+21. Reverse
+22. DJ Cut Killer
+23. Empty casks make the loudest noise
+24. A gif is worth 10 thousand words
 
 
